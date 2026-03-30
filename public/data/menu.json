@@ -1,0 +1,482 @@
+[
+  {
+    "id": "1",
+    "name": "Double Truffle Burger",
+    "price": 0.1,
+    "category": "food",
+    "image": "/img/1.jpg",
+    "description": "Wagyu beef, black truffle aioli, aged cheddar on brioche.",
+    "calories": "850 kcal",
+    "popular": true
+  },
+  {
+    "id": "2",
+    "name": "Truffle Parmesan Fries",
+    "price": 0.2,
+    "category": "food",
+    "image": "/img/2.jpg",
+    "description": "Hand-cut potatoes, truffle oil, freshly grated parmesan.",
+    "calories": "450 kcal",
+    "popular": true
+  },
+  {
+    "id": "3",
+    "name": "Lychee Mint Martini",
+    "price": 14.0,
+    "category": "drink",
+    "image": "/img/3.jpg",
+    "description": "Premium vodka, fresh lychee, splash of lime and mint.",
+    "calories": "180 kcal",
+    "popular": true
+  },
+  {
+    "id": "4",
+    "name": "Cold Brew Oat Latte",
+    "price": 6.5,
+    "category": "drink",
+    "image": "/img/4.jpg",
+    "description": "24h slow brew, creamy oat milk, Madagascar vanilla.",
+    "calories": "120 kcal",
+    "popular": false
+  },
+  {
+    "id": "5",
+    "name": "Salmon Avocado Poke",
+    "price": 22.0,
+    "category": "food",
+    "image": "/img/5.jpg",
+    "description": "Fresh Atlantic salmon, avocado, edamame, spicy mayo glaze.",
+    "calories": "620 kcal",
+    "popular": true
+  },
+  {
+    "id": "6",
+    "name": "Passionfruit Fizz",
+    "price": 8.0,
+    "category": "drink",
+    "image": "/img/6.jpg",
+    "description": "Fresh passionfruit, soda, squeezed lime, wild mint.",
+    "calories": "90 kcal",
+    "popular": false
+  },
+  {
+    "id": "7",
+    "name": "Wild Mushroom Risotto",
+    "price": 24.5,
+    "category": "food",
+    "image": "/img/7.jpg",
+    "description": "Carnaroli rice, porcini mushrooms, thyme, truffle butter.",
+    "calories": "580 kcal",
+    "popular": false
+  },
+  {
+    "id": "8",
+    "name": "Wagyu Ribeye Steak",
+    "price": 55.0,
+    "category": "food",
+    "image": "/img/8.jpg",
+    "description": "A5 Wagyu ribeye, roasted bone marrow, red wine jus.",
+    "calories": "950 kcal",
+    "popular": true
+  },
+  {
+    "id": "9",
+    "name": "Iced Hibiscus Tea",
+    "price": 5.5,
+    "category": "drink",
+    "image": "/img/9.jpg",
+    "description": "Dried hibiscus flowers, honey, chilled over crushed ice.",
+    "calories": "45 kcal",
+    "popular": false
+  },
+  {
+    "id": "10",
+    "name": "Dark Chocolate Fondant",
+    "price": 12.0,
+    "category": "food",
+    "image": "/img/10.jpg",
+    "description": "70% cocoa lava cake, vanilla bean gelato, berry coulis.",
+    "calories": "420 kcal",
+    "popular": true
+  },
+  {
+    "id": "12",
+    "name": "Burrata & Heirloom Tomato",
+    "price": 16.0,
+    "category": "food",
+    "image": "/img/12.jpg",
+    "description": "Creamy burrata, colorful heirloom tomatoes, basil oil.",
+    "calories": "310 kcal",
+    "popular": true
+  },
+  {
+    "id": "14",
+    "name": "Blueberry Lemonade",
+    "price": 6.0,
+    "category": "drink",
+    "image": "/img/14.jpg",
+    "description": "Fresh blueberries, squeezed lemon, sparkling water.",
+    "calories": "110 kcal",
+    "popular": false
+  },
+  {
+    "id": "17",
+    "name": "Classic Caesar Salad",
+    "price": 14.0,
+    "category": "food",
+    "image": "/img/17.jpg",
+    "description": "Romaine hearts, garlic croutons, parmesan, house dressing.",
+    "calories": "420 kcal",
+    "popular": false
+  },
+  {
+    "id": "18",
+    "name": "Mango Sticky Rice",
+    "price": 9.5,
+    "category": "food",
+    "image": "/img/18.jpg",
+    "description": "Sweet coconut rice, honey mango, toasted sesame.",
+    "calories": "380 kcal",
+    "popular": true
+  },
+  {
+    "id": "19",
+    "name": "Espresso Martini",
+    "price": 15.0,
+    "category": "drink",
+    "image": "/img/19.jpg",
+    "description": "Double espresso shot, coffee liqueur, premium vodka.",
+    "calories": "210 kcal",
+    "popular": true
+  },
+  {
+    "id": "20",
+    "name": "Grilled Octopus",
+    "price": 26.0,
+    "category": "food",
+    "image": "/img/20.jpg",
+    "description": "Charred tentacles, lemon potato puree, smoked paprika oil.",
+    "calories": "410 kcal",
+    "popular": false
+  },
+  {
+    "id": "21",
+    "name": "Iced Matcha Lemonade",
+    "price": 6.5,
+    "category": "drink",
+    "image": "/img/21.jpg",
+    "description": "Zen matcha, tart lemonade, agave nectar syrup.",
+    "calories": "95 kcal",
+    "popular": true
+  },
+  {
+    "id": "22",
+    "name": "Truffle Mac & Cheese",
+    "price": 19.0,
+    "category": "food",
+    "image": "/img/22.jpg",
+    "description": "Four cheese blend, white truffle oil, panko crust.",
+    "calories": "740 kcal",
+    "popular": true
+  },
+  {
+    "id": "23",
+    "name": "Smoked Salmon Bagel",
+    "price": 13.5,
+    "category": "food",
+    "image": "/img/23.jpg",
+    "description": "Cream cheese, capers, red onion, everything bagel.",
+    "calories": "480 kcal",
+    "popular": false
+  },
+  {
+    "id": "24",
+    "name": "Pineapple Coconut Smoothie",
+    "price": 8.5,
+    "category": "drink",
+    "image": "/img/24.jpg",
+    "description": "Tropical pineapple, coconut cream, chia seeds.",
+    "calories": "240 kcal",
+    "popular": true
+  },
+  {
+    "id": "25",
+    "name": "BBQ Pork Ribs",
+    "price": 32.0,
+    "category": "food",
+    "image": "/img/25.jpg",
+    "description": "Fall-off-the-bone ribs, hickory BBQ sauce, slaw.",
+    "calories": "1100 kcal",
+    "popular": true
+  },
+  {
+    "id": "26",
+    "name": "Yuzu Ginger Ale",
+    "price": 5.0,
+    "category": "drink",
+    "image": "/img/26.jpg",
+    "description": "House-made ginger syrup, yuzu juice, club soda.",
+    "calories": "85 kcal",
+    "popular": false
+  },
+  {
+    "id": "27",
+    "name": "Beef Pho",
+    "price": 16.5,
+    "category": "food",
+    "image": "/img/27.jpg",
+    "description": "Rice noodles, rare beef, 12-hour bone broth, herbs.",
+    "calories": "520 kcal",
+    "popular": true
+  },
+  {
+    "id": "29",
+    "name": "Crispy Pork Belly",
+    "price": 22.5,
+    "category": "food",
+    "image": "/img/29.jpg",
+    "description": "Twice-cooked pork, apple puree, fennel salad.",
+    "calories": "890 kcal",
+    "popular": true
+  },
+  {
+    "id": "30",
+    "name": "Cold Brew Tonic",
+    "price": 6.5,
+    "category": "drink",
+    "image": "/img/30.jpg",
+    "description": "Strong cold brew, elderflower tonic, grapefruit twist.",
+    "calories": "60 kcal",
+    "popular": false
+  },
+  {
+    "id": "31",
+    "name": "Falafel Wrap",
+    "price": 12.0,
+    "category": "food",
+    "image": "/img/31.jpg",
+    "description": "Chickpea fritters, hummus, tahini, pickled turnip.",
+    "calories": "460 kcal",
+    "popular": false
+  },
+  {
+    "id": "33",
+    "name": "Watermelon Mojito",
+    "price": 13.0,
+    "category": "drink",
+    "image": "/img/33.jpg",
+    "description": "Fresh watermelon, white rum, mint, soda.",
+    "calories": "160 kcal",
+    "popular": true
+  },
+  {
+    "id": "35",
+    "name": "Earl Grey Tea",
+    "price": 4.5,
+    "category": "drink",
+    "image": "/img/35.jpg",
+    "description": "Loose leaf black tea, bergamot oil, lemon slice.",
+    "calories": "0 kcal",
+    "popular": false
+  },
+  {
+    "id": "36",
+    "name": "Avocado Toast",
+    "price": 11.5,
+    "category": "food",
+    "image": "/img/36.jpg",
+    "description": "Sourdough, smashed avocado, poached egg, chili flakes.",
+    "calories": "440 kcal",
+    "popular": true
+  },
+  {
+    "id": "37",
+    "name": "Thai Milk Tea",
+    "price": 6.5,
+    "category": "drink",
+    "image": "/img/37.jpg",
+    "description": "Strong black tea, condensed milk, star anise flavoring.",
+    "calories": "260 kcal",
+    "popular": true
+  },
+  {
+    "id": "38",
+    "name": "Bolognese Tagliatelle",
+    "price": 20.0,
+    "category": "food",
+    "image": "/img/38.jpg",
+    "description": "Egg pasta, slow-cooked beef and pork ragu, parmesan.",
+    "calories": "610 kcal",
+    "popular": true
+  },
+  {
+    "id": "44",
+    "name": "Chicken Tikka Masala",
+    "price": 19.5,
+    "category": "food",
+    "image": "/img/44.jpg",
+    "description": "Tandoori chicken, creamy tomato sauce, basmati rice.",
+    "calories": "740 kcal",
+    "popular": true
+  },
+  {
+    "id": "46",
+    "name": "Gyoza (6pcs)",
+    "price": 9.0,
+    "category": "food",
+    "image": "/img/46.jpg",
+    "description": "Pan-fried pork dumplings, soy-vinegar dipping sauce.",
+    "calories": "320 kcal",
+    "popular": true
+  },
+  {
+    "id": "47",
+    "name": "Cucumber Mint Cooler",
+    "price": 6.0,
+    "category": "drink",
+    "image": "/img/47.jpg",
+    "description": "Fresh cucumber, lime, mint, sparkling water.",
+    "calories": "40 kcal",
+    "popular": false
+  },
+  {
+    "id": "48",
+    "name": "Fish & Chips",
+    "price": 21.0,
+    "category": "food",
+    "image": "/img/48.jpg",
+    "description": "Beer-battered cod, chunky fries, tartar sauce.",
+    "calories": "890 kcal",
+    "popular": true
+  },
+  {
+    "id": "49",
+    "name": "London Fog",
+    "price": 6.5,
+    "category": "drink",
+    "image": "/img/49.jpg",
+    "description": "Earl Grey tea, vanilla syrup, steamed milk.",
+    "calories": "160 kcal",
+    "popular": false
+  },
+  {
+    "id": "50",
+    "name": "Vegetable Ramen",
+    "price": 17.5,
+    "category": "food",
+    "image": "/img/50.jpg",
+    "description": "Miso broth, tofu, mushrooms, bamboo shoots, corn.",
+    "calories": "480 kcal",
+    "popular": false
+  },
+  {
+    "id": "52",
+    "name": "Beef Sliders",
+    "price": 16.0,
+    "category": "food",
+    "image": "/img/52.jpg",
+    "description": "Three mini wagyu burgers, caramelized onions, aioli.",
+    "calories": "650 kcal",
+    "popular": true
+  },
+  {
+    "id": "53",
+    "name": "Mango Lassi",
+    "price": 6.0,
+    "category": "drink",
+    "image": "/img/53.jpg",
+    "description": "Yogurt-based drink with fresh mango pulp.",
+    "calories": "210 kcal",
+    "popular": true
+  },
+  {
+    "id": "54",
+    "name": "Caprese Skewers",
+    "price": 10.0,
+    "category": "food",
+    "image": "/img/54.jpg",
+    "description": "Cherry tomatoes, bocconcini, balsamic glaze.",
+    "calories": "180 kcal",
+    "popular": false
+  },
+  {
+    "id": "55",
+    "name": "Iced Peach Tea",
+    "price": 5.5,
+    "category": "drink",
+    "image": "/img/55.jpg",
+    "description": "Black tea infused with fresh peach slices.",
+    "calories": "80 kcal",
+    "popular": true
+  },
+  {
+    "id": "56",
+    "name": "Calamari Fritti",
+    "price": 15.5,
+    "category": "food",
+    "image": "/img/56.jpg",
+    "description": "Crispy fried squid, lemon wedge, spicy marinara.",
+    "calories": "430 kcal",
+    "popular": false
+  },
+  {
+    "id": "57",
+    "name": "Flat White",
+    "price": 5.0,
+    "category": "drink",
+    "image": "/img/57.jpg",
+    "description": "Double ristretto, thin layer of velvety microfoam.",
+    "calories": "110 kcal",
+    "popular": true
+  },
+  {
+    "id": "58",
+    "name": "Greek Salad",
+    "price": 13.0,
+    "category": "food",
+    "image": "/img/58.jpg",
+    "description": "Cucumber, olives, feta, red onion, oregano.",
+    "calories": "280 kcal",
+    "popular": false
+  },
+  {
+    "id": "59",
+    "name": "Blue Hawaiian",
+    "price": 13.0,
+    "category": "drink",
+    "image": "/img/59.jpg",
+    "description": "Rum, blue curacao, pineapple juice, coconut.",
+    "calories": "240 kcal",
+    "popular": false
+  },
+  {
+    "id": "60",
+    "name": "Tiramisu",
+    "price": 11.0,
+    "category": "food",
+    "image": "/img/60.jpg",
+    "description": "Espresso-soaked ladyfingers, mascarpone cream.",
+    "calories": "450 kcal",
+    "popular": true
+  },
+  {
+    "id": "61",
+    "name": "Hot Ginger Tea",
+    "price": 4.5,
+    "category": "drink",
+    "image": "/img/61.jpg",
+    "description": "Fresh ginger root, lemon, organic honey.",
+    "calories": "35 kcal",
+    "popular": false
+  },
+  {
+    "id": "62",
+    "name": "Shrimp Scampi",
+    "price": 23.5,
+    "category": "food",
+    "image": "/img/62.jpg",
+    "description": "Large shrimp, garlic butter, white wine, linguine.",
+    "calories": "590 kcal",
+    "popular": true
+  }
+]
